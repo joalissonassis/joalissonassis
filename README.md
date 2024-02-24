@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente estudante de ADS e Fazendo projetos web e Destopk.<br>Aprendendo/aprimorando na linguagem Python.
+Atualmente estudante de ADS e Fazendo projetos web e Desktop.<br>Aprendendo/aprimorando na linguagem Python.
 
 
 ## 🌐 Socials:
