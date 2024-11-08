@@ -1,5 +1,22 @@
-# 💫 About Me:
-Atualmente estudante de ADS e Fazendo projetos web e Desktop.<br>Aprendendo/aprimorando na linguagem Python.
+Olá, eu sou Joálisson! 👋
+Sobre Mim: 
+
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou aprofundando meus conhecimentos em Python e Django para desenvolver projetos web de alta qualidade e eficiência. Tenho interesse em construir soluções inovadoras e aplicar práticas de desenvolvimento ágeis para criar software de impacto.
+
+O que estou estudando atualmente 📚
+Python: Desenvolvimento back-end, automação e manipulação de dados.
+Django: Framework para construção de aplicações web robustas e escaláveis.
+Habilidades
+Linguagens: Python, JavaScript, SQL
+Frameworks: Django, Bootstrap
+Outros: Git, GitHub, HTML, CSS
+Projetos
+Aqui estão alguns dos projetos nos quais estou trabalhando ou que já concluí. Mais detalhes e atualizações podem ser encontrados nos meus repositórios.
+
+Contato
+LinkedIn 
+https://www.linkedin.com/in/jo%C3%A1lisson-assis-80639b214/
+Email: joalissonassis@gmail.com
 
 
 ## 🌐 Socials:
