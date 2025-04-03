@@ -1,3 +1,4 @@
+
 Sou desenvolvedor back-end formado em Análise e Desenvolvimento de Sistemas, com foco na construção de soluções eficientes e escaláveis. Atualmente, estou aprofundando meus conhecimentos em Python e Django para o desenvolvimento de aplicações web robustas, além de estudar Java e seus principais frameworks para aprimorar minha expertise no ecossistema back-end. Também estou me preparando para a certificação AWS Certified Cloud Practitioner, buscando expandir minha compreensão em computação em nuvem.
 
 
